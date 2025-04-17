@@ -6,7 +6,7 @@
 
 ## ПРИМЕРЫ API-запросов 
 
-![Запрос на получение данных GET](./Practice-API.PNG)
+![Запрос на получение данных GET](./Practice-API/JSON_GET.png)
 
 ![Создание данных POST](./Practice-API/JSON_POST.png)
 
